@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+**/bin/
+**/obj/
+.vs/
+*.bak
